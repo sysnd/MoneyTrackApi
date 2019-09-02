@@ -1,0 +1,11 @@
+C:\Repositories\FMI\MoneyTrackApi\MoneyTrackApi\bin\Debug\netcoreapp2.2\MoneyTrackApi.deps.json
+C:\Repositories\FMI\MoneyTrackApi\MoneyTrackApi\bin\Debug\netcoreapp2.2\MoneyTrackApi.runtimeconfig.json
+C:\Repositories\FMI\MoneyTrackApi\MoneyTrackApi\bin\Debug\netcoreapp2.2\MoneyTrackApi.runtimeconfig.dev.json
+C:\Repositories\FMI\MoneyTrackApi\MoneyTrackApi\bin\Debug\netcoreapp2.2\MoneyTrackApi.dll
+C:\Repositories\FMI\MoneyTrackApi\MoneyTrackApi\obj\Debug\netcoreapp2.2\MoneyTrackApi.csprojAssemblyReference.cache
+C:\Repositories\FMI\MoneyTrackApi\MoneyTrackApi\obj\Debug\netcoreapp2.2\MoneyTrackApi.csproj.CoreCompileInputs.cache
+C:\Repositories\FMI\MoneyTrackApi\MoneyTrackApi\obj\Debug\netcoreapp2.2\MoneyTrackApi.RazorAssemblyInfo.cache
+C:\Repositories\FMI\MoneyTrackApi\MoneyTrackApi\obj\Debug\netcoreapp2.2\MoneyTrackApi.RazorAssemblyInfo.cs
+C:\Repositories\FMI\MoneyTrackApi\MoneyTrackApi\obj\Debug\netcoreapp2.2\MoneyTrackApi.AssemblyInfoInputs.cache
+C:\Repositories\FMI\MoneyTrackApi\MoneyTrackApi\obj\Debug\netcoreapp2.2\MoneyTrackApi.AssemblyInfo.cs
+C:\Repositories\FMI\MoneyTrackApi\MoneyTrackApi\obj\Debug\netcoreapp2.2\MoneyTrackApi.RazorTargetAssemblyInfo.cache
