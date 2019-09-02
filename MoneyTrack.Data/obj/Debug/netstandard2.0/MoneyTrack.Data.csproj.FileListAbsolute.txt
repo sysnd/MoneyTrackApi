@@ -1,6 +1,0 @@
-C:\Repositories\FMI\MoneyTrackApi\MoneyTrack.Data\bin\Debug\netstandard2.0\MoneyTrack.Data.deps.json
-C:\Repositories\FMI\MoneyTrackApi\MoneyTrack.Data\bin\Debug\netstandard2.0\MoneyTrack.Data.dll
-C:\Repositories\FMI\MoneyTrackApi\MoneyTrack.Data\obj\Debug\netstandard2.0\MoneyTrack.Data.csprojAssemblyReference.cache
-C:\Repositories\FMI\MoneyTrackApi\MoneyTrack.Data\obj\Debug\netstandard2.0\MoneyTrack.Data.csproj.CoreCompileInputs.cache
-C:\Repositories\FMI\MoneyTrackApi\MoneyTrack.Data\obj\Debug\netstandard2.0\MoneyTrack.Data.AssemblyInfoInputs.cache
-C:\Repositories\FMI\MoneyTrackApi\MoneyTrack.Data\obj\Debug\netstandard2.0\MoneyTrack.Data.AssemblyInfo.cs
