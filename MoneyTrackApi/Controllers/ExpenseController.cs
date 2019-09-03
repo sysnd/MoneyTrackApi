@@ -32,7 +32,7 @@ namespace MoneyTrackApi.Controllers
         }
 
         // GET: api/expense/id
-        [HttpGet("{id}", Name = "Get")]
+        [HttpGet("{id}", Name = "GetExpense")]
         public ActionResult Get(string id)
         {
             try

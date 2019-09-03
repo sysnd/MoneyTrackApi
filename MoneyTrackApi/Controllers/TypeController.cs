@@ -15,7 +15,7 @@ namespace MoneyTrackApi.Controllers
             this.typesService = typesService;
         }
 
-        // GET: api/types
+        // GET: api/type
         [HttpGet]
         public ActionResult Get()
         {
@@ -31,8 +31,8 @@ namespace MoneyTrackApi.Controllers
             }
         }
 
-        // GET: api/types/id
-        [HttpGet("{id}", Name = "Get")]
+        // GET: api/type/id
+        [HttpGet("{id}", Name = "GetType")]
         public ActionResult Get(string id)
         {
             try
@@ -47,7 +47,7 @@ namespace MoneyTrackApi.Controllers
             }
         }
 
-        // POST: api/types
+        // POST: api/type
         [HttpPost]
         public ActionResult Post([FromBody] Type type)
         {
@@ -63,7 +63,7 @@ namespace MoneyTrackApi.Controllers
             }
         }
 
-        // PUT: api/types/id
+        // PUT: api/type/id
         [HttpPut("{id}")]
         public ActionResult Put(string id, [FromBody] Type type)
         {
@@ -79,7 +79,7 @@ namespace MoneyTrackApi.Controllers
             }
         }
 
-        // DELETE: api/types/id
+        // DELETE: api/type/id
         [HttpDelete("{id}")]
         public ActionResult Delete(string id)
         {
